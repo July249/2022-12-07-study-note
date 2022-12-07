@@ -11,9 +11,11 @@ export const LocationInput = (props) => {
     const onKeyPress = (e) => {
         if (e.key === "Enter") {
             props.setCity(inputRef.current.value);
+            props.onSearchToggle();
             inputRef.current.value = "";
         }
     };
+
     return (
         <div className="input_box">
             <label htmlFor="search">
