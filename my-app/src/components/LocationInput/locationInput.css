@@ -1,0 +1,32 @@
+.input_box {
+    background-color: rgba(130, 224, 170, 0.6);
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+}
+
+label {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search_location {
+    font-size: 1.5em;
+    color: #000;
+    border-radius: 10px;
+    outline: none;
+}
+
+.searchOffBtn {
+    position: absolute;
+    right: 16px;
+    font-size: 32px;
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+}
