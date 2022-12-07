@@ -6,6 +6,12 @@
 
 날씨 [Open Weather Map API](https://openweathermap.org/)를 활용한 간단한 리액트 App 만들기 (feat. [고급반 openAPI 강의](https://github.com/weniv/FrontendSchool_3/tree/main/JavaScript/openWeather))
 
+### Note
+
+- main 브랜치에는 리액트로 진행한 특강 소스코드가 있습니다.
+
+- initial_setting 브랜치에는 고급반 openAPI 강의에서 진행한 바닐라 자바스크립트 코드가 있습니다.
+
 ## 📖 내용 - 이런 것들을 다루어요~ 
 
 1. `npx create-react-app my-app --template basic-react`에서 시작해서 온전한 리액트 어플리케이션 만들기
