@@ -47,3 +47,11 @@
 - Paris의 날씨 정보를 가져온 모습
 
 ![image](https://user-images.githubusercontent.com/90930391/206221002-ba83ae9e-eea9-492e-9e50-5e32b33d5fc7.png)
+
+## 💪 챌린지
+
+- 받아온 날씨 Open API 정보와 아래 Figma 디자인의 콜라보로 이쁘고 멋진 날씨 어플리케이션을 만들어 보시는 건 어떠실까요?
+
+- Figma 참고 자료: [Weather App UI Design](https://www.figma.com/file/wnXhhFVsuGp6bzFRzY49HA/Weather-App-UI-Design-(Community)?node-id=2%3A2214&t=oYFNGpohI7qtcGx3-0)
+
+![image](https://user-images.githubusercontent.com/90930391/206224303-b02a080d-1f4d-4093-a921-841ba68e9b46.png)
